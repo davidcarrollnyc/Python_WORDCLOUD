@@ -5,8 +5,6 @@ pip install wordcloud~=1.2.1
 
 """
 
-
-
 !curl -L -o mydatafile.csv http://azuremlsamples.azureml.net/templatedata/Text%20-%20Input.csv
 
 import os
