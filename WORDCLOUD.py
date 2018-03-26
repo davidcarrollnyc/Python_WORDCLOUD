@@ -1,3 +1,12 @@
+"""
+
+NOTE: you must pip install the following python libraries for this script to work
+pip install wordcloud~=1.2.1
+
+"""
+
+
+
 !curl -L -o mydatafile.csv http://azuremlsamples.azureml.net/templatedata/Text%20-%20Input.csv
 
 import os
